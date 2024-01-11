@@ -1,5 +1,5 @@
 # Demo python program
-a = 10
+a = 100
 b = 20
 c = a + b
 print(f'Sum = {c}')
